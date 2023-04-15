@@ -13,8 +13,8 @@
     "remote",
     "uploader"
   ],
-  "website": "https://github.com/LISA-KOREA",
-  "repository": "https://github.com/LISA-KOREA/UPLOADER-BOT-V3",
+  "website": "https://github.com/dktest2",
+  "repository": "https://github.com/dktest2/UPLOADER-BOT-V3",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -50,7 +50,7 @@
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "1834908260"
+      "value": "5808599296"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
