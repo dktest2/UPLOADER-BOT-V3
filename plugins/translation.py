@@ -30,17 +30,17 @@ I Am Telegram URL Uploader Bot.
  
 """
     ABOUT_TEXT = """
-**📛 My Name** : [Uploader Bot V3 🚀](http://t.me/UploadFlieBot)
+**📛 My Name** : [ＷＩＬＤ Ξ ΞＲ](http://t.me/urluploderV3_bot)
 
-**❤️ Version** : [2.3 🔥](http://t.me/UploadFlieBot)
+**❤️ Version** : [3.3 🔥](http://t.me/urluploderV3_bot)
 
-**🤖 Source** : [Click](https://github.com/LISA-KOREA/UPLOADER-BOT-V3)
+**🤖 Source** : [Click](https://t.me/R_OHLI)
 
 **🧿 Language** : [Python 3.10.9](https://www.python.org/)
 
 **📢 Framework** : [Pyrogram 1.4.16](https://docs.pyrogram.org/)
 
-**👨‍💻 Developer** : [LISA](https://t.me/LISA_FAN_KL)
+**👨‍💻 Developer** : [𝗥𝗔𝗩𝗜 𝗞𝗢𝗛𝗟𝗜](https://t.me/R_KOHLI)
 
 """
 
@@ -89,7 +89,7 @@ I Am Telegram URL Uploader Bot.
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>No preminum plans available in this bot </b>  /help for Details"
-    FORMAT_SELECTION = "<b>Select Your Format 👇\n\n🎥 Video = Upload As Streamble\n\n📂 File =Upload As File\n\n👮‍♂ Powered By :</b> @NT_BOT_CHANNEL"
+    FORMAT_SELECTION = "<b>Select Your Format 👇\n\n🎥 Video = Upload As Streamble\n\n📂 File =Upload As File\n\n👮‍♂ Powered By :</b> @movie_a1"
     SET_CUSTOM_USERNAME_PASSWORD = """"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_START = "📥 Downloading..."
